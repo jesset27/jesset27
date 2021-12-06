@@ -24,4 +24,6 @@
   <a href = "mailto:jessewillian0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jess%C3%A9-willian-10b960136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+   ![Snake animation](https://github.com/jesset27/jesset27/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
