@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jessé Willian
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estudando Html, Css e JavaScript
+- 💻 Estudando PHP e ReactJS
 - 📫 Contate-me no e-mail: jessewillian0@gmail.com
 
 <div align="center">
